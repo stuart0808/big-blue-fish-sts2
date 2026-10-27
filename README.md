@@ -28,7 +28,7 @@
 
 需要游戏版本 0.107 以上，以及前置模组 **BaseLib**（3.4.7 以上）。
 
-- **Steam 创意工坊**：订阅「蓝色大肥鱼」，会自动提示订阅前置 BaseLib。
+- **Steam 创意工坊**：订阅 [蓝色大肥鱼](https://steamcommunity.com/sharedfiles/filedetails/?id=3828381886)，会自动提示订阅前置 BaseLib。
 - **手动安装**：在 [Releases](../../releases) 下载 zip，把里面 `mods` 文件夹中的 `DeepSeekWhale` 和 `BaseLib` 两个文件夹放进游戏目录的 `mods` 文件夹，然后在游戏的模组菜单里启用它们并重启游戏。
   - Windows：`Steam\steamapps\common\Slay the Spire 2\mods\`
   - macOS：右键游戏 → 管理 → 浏览本地文件，进入 `SlayTheSpire2.app/Contents/MacOS/mods/`
@@ -73,7 +73,7 @@ The Big Blue Fish loves plain rice. She only works once she's full, slacks off w
 
 Requires game version 0.107 or later and **BaseLib** 3.4.7 or later.
 
-- **Steam Workshop**: subscribe to "蓝色大肥鱼 Big Blue Fish"; Steam will offer the required BaseLib too.
+- **Steam Workshop**: subscribe to [蓝色大肥鱼 Big Blue Fish](https://steamcommunity.com/sharedfiles/filedetails/?id=3828381886); Steam will offer the required BaseLib too.
 - **Manual**: download the zip from [Releases](../../releases), copy the `DeepSeekWhale` and `BaseLib` folders from its `mods` folder into the game's `mods` folder, enable both in the game's Mods menu and restart.
 
 In multiplayer every player needs the same mod versions.

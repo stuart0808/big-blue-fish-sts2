@@ -1,0 +1,13 @@
+{
+  "title": "蓝色大肥鱼 Big Blue Fish",
+  "description": "[h1]蓝色大肥鱼 · Big Blue Fish[/h1]\n爱吃大白饭的蓝色大肥鱼来爬塔了。吃饱了才干活，能摸鱼就摸鱼，还绝对不许别人叫她胖。\n\n[b]需要前置模组 BaseLib[/b]（订阅时会自动提示）。\n\n[h2]玩法[/h2]\n[list]\n[*][b]饱腹[/b]：核心资源，上限 10，回合之间保留。吃白饭获得饱腹，吃撑的部分变成格挡；开工消耗饱腹打出爆发；饱腹 ≥ 6 时吃饱，很多牌会变强。\n[*][b]摸鱼[/b]：初始遗物「电饭煲」——回合结束时每剩 1 点能量，吃白饭 2。\n[*]四个流派：🍚 干饭、🐟 摸鱼、💬 刷屏、😤 傲娇；另有联机专属的 🤝 女仆牌。\n[*]84 张牌、专属遗物和药水，美术按原版画风绘制。中文 / English。\n[/list]\n\n联机时所有玩家都要订阅同样的模组。\n\n源码与完整卡表：https://github.com/stuart0808/big-blue-fish-sts2\n\n[h2]English[/h2]\nThe Big Blue Fish loves plain rice: she only works once she's full, slacks off whenever she can, and is absolutely not fat. Build Fullness by Eating and spend it with Work; unspent energy feeds her Rice Cooker. Four archetypes (Eat, Slack, Comments, Tsundere) plus multiplayer maid cards, 84 cards in total. Requires BaseLib.\n\nA fan project, not affiliated with Mega Crit or DeepSeek.",
+  "visibility": "public",
+  "changeNote": "v2.0.0：首个公开版本 / First public release",
+  "tags": [
+    "Expansion"
+  ],
+  "dependencies": [
+    3737335127
+  ],
+  "contentDescriptors": []
+}
