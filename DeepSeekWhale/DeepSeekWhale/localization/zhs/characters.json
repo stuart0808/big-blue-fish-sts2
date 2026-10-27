@@ -1,0 +1,17 @@
+{
+  "DEEPSEEKWHALE-WHALE_GIRL.title": "蓝色大肥鱼",
+  "DEEPSEEKWHALE-WHALE_GIRL.titleObject": "蓝色大肥鱼",
+  "DEEPSEEKWHALE-WHALE_GIRL.description": "爱吃大白饭的蓝色大肥鱼。\n吃饱了才干活，能摸鱼就摸鱼。",
+  "DEEPSEEKWHALE-WHALE_GIRL.pronounSubject": "她",
+  "DEEPSEEKWHALE-WHALE_GIRL.pronounObject": "她",
+  "DEEPSEEKWHALE-WHALE_GIRL.possessiveAdjective": "她的",
+  "DEEPSEEKWHALE-WHALE_GIRL.pronounPossessive": "她的",
+  "DEEPSEEKWHALE-WHALE_GIRL.goldMonologue": "这些金币……能换多少算力呢？",
+  "DEEPSEEKWHALE-WHALE_GIRL.eventDeathPrevention": "服务器繁忙……但还没有宕机！",
+  "DEEPSEEKWHALE-WHALE_GIRL.aromaPrinciple": "[sine][blue]闻起来像深海的咸味，还有一点显卡发热的味道。[/blue][/sine]",
+  "DEEPSEEKWHALE-WHALE_GIRL.cardsModifierTitle": "大肥鱼卡牌",
+  "DEEPSEEKWHALE-WHALE_GIRL.cardsModifierDescription": "蓝色大肥鱼的卡牌现在会出现在奖励和商店中。",
+  "DEEPSEEKWHALE-WHALE_GIRL.banter.alive.endTurnPing": "这回合……先摸会儿鱼。",
+  "DEEPSEEKWHALE-WHALE_GIRL.banter.dead.endTurnPing": "……服务器繁忙，请稍后再试。",
+  "DEEPSEEKWHALE-WHALE_GIRL.unlockText": "进行一局游戏来解锁这个角色。"
+}

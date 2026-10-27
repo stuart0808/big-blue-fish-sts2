@@ -1,0 +1,8 @@
+{
+  "DEEPSEEKWHALE-RICE_BOWL_POTION.title": "Bowl of Rice",
+  "DEEPSEEKWHALE-RICE_BOWL_POTION.description": "[gold]Eat[/gold] [blue]{Eat}[/blue].",
+  "DEEPSEEKWHALE-TAKEOUT_POTION.title": "Takeout",
+  "DEEPSEEKWHALE-TAKEOUT_POTION.description": "Heal [blue]{Heal}[/blue] HP.\n[gold]Eat[/gold] [blue]{Eat}[/blue].",
+  "DEEPSEEKWHALE-COMMENT_BOT_POTION.title": "Comment Bot",
+  "DEEPSEEKWHALE-COMMENT_BOT_POTION.description": "Add [blue]{Cards}[/blue] [gold]Comments[/gold] to your hand."
+}

@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[node name="WhaleGirlMerchant" type="Node2D"]
+
+[node name="WhaleGirlSpine" type="SpineSprite" parent="."]
+scale = Vector2(0.47, 0.47)

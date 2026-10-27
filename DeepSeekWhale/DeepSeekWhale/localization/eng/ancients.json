@@ -1,0 +1,20 @@
+{
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-0.char": "The top? ...Just so you know, I'm going to lunch after this.",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-0.next": "Continue",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-1.ancient": "Another one to disturb me. Are you... a fish?",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-1.next": "Respond",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-2.char": "A whale! And I am NOT fat!",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-0.ancient": "You again. What have you brought this time?",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-0.next": "Respond",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-1.char": "A bowl of rice. Can't punch you on an empty stomach.",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-1.next": "Continue",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-2.ancient": "...Absurd.",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-0.char": "Server busy, please try again la-- no wait, I'm here to clock out!",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-0.next": "Continue",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-1.ancient": "Clock out? At the top of the Spire?",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-1.next": "Respond",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-2.char": "Nobody stops me from leaving on time!",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-endattack": "Both",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-endattack": "Both",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-endattack": "Both"
+}

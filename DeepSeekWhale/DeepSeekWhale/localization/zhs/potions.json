@@ -1,0 +1,8 @@
+{
+  "DEEPSEEKWHALE-RICE_BOWL_POTION.title": "一碗白饭",
+  "DEEPSEEKWHALE-RICE_BOWL_POTION.description": "[gold]吃白饭[/gold][blue]{Eat}[/blue]。",
+  "DEEPSEEKWHALE-TAKEOUT_POTION.title": "外卖",
+  "DEEPSEEKWHALE-TAKEOUT_POTION.description": "回复[blue]{Heal}[/blue]点生命。\n[gold]吃白饭[/gold][blue]{Eat}[/blue]。",
+  "DEEPSEEKWHALE-COMMENT_BOT_POTION.title": "评论机器人",
+  "DEEPSEEKWHALE-COMMENT_BOT_POTION.description": "将[blue]{Cards}[/blue]张[gold]评论[/gold]加入你的手牌。"
+}

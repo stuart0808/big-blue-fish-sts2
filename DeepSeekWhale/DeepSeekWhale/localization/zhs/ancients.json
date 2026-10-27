@@ -1,0 +1,20 @@
+{
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-0.char": "到顶了？……先说好，打完这一架我要去吃饭。",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-0.next": "继续",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-1.ancient": "又一个来打扰我的。你是……一条鱼？",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-1.next": "回答",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-2.char": "是鲸！而且我才不胖！",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-0.ancient": "你又来了。这次带了什么？",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-0.next": "回答",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-1.char": "一碗白饭。吃饱了才有力气揍你。",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-1.next": "继续",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-2.ancient": "……荒谬。",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-0.char": "服务器繁忙，请稍后再……不对，这次我是来下班的！",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-0.next": "继续",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-1.ancient": "下班？在塔顶？",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-1.next": "回答",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-2.char": "准点下班，谁也拦不住！",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.0-endattack": "Both",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.1-endattack": "Both",
+  "THE_ARCHITECT.talk.DEEPSEEKWHALE-WHALE_GIRL.2-endattack": "Both"
+}

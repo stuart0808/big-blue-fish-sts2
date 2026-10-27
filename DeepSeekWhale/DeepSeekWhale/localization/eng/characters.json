@@ -1,0 +1,17 @@
+{
+  "DEEPSEEKWHALE-WHALE_GIRL.title": "The Big Blue Fish",
+  "DEEPSEEKWHALE-WHALE_GIRL.titleObject": "The Big Blue Fish",
+  "DEEPSEEKWHALE-WHALE_GIRL.description": "A big blue fish who loves plain rice.\nWorks only when full, slacks off whenever she can.",
+  "DEEPSEEKWHALE-WHALE_GIRL.pronounSubject": "she",
+  "DEEPSEEKWHALE-WHALE_GIRL.pronounObject": "her",
+  "DEEPSEEKWHALE-WHALE_GIRL.possessiveAdjective": "her",
+  "DEEPSEEKWHALE-WHALE_GIRL.pronounPossessive": "hers",
+  "DEEPSEEKWHALE-WHALE_GIRL.goldMonologue": "How much compute could this buy...?",
+  "DEEPSEEKWHALE-WHALE_GIRL.eventDeathPrevention": "Server busy... but not down yet!",
+  "DEEPSEEKWHALE-WHALE_GIRL.aromaPrinciple": "[sine][blue]Smells of deep-sea salt, with a hint of warm GPU.[/blue][/sine]",
+  "DEEPSEEKWHALE-WHALE_GIRL.cardsModifierTitle": "Big Blue Fish Cards",
+  "DEEPSEEKWHALE-WHALE_GIRL.cardsModifierDescription": "The Big Blue Fish's cards now appear in rewards and shops.",
+  "DEEPSEEKWHALE-WHALE_GIRL.banter.alive.endTurnPing": "This turn... a little slacking first.",
+  "DEEPSEEKWHALE-WHALE_GIRL.banter.dead.endTurnPing": "...Server busy. Please try again later.",
+  "DEEPSEEKWHALE-WHALE_GIRL.unlockText": "Play a run to unlock this character."
+}

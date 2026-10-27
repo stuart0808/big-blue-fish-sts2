@@ -1,0 +1,17 @@
+{
+  "id": "DeepSeekWhale",
+  "name": "蓝色大肥鱼",
+  "author": "Stuart Fan",
+  "description": "新角色：蓝色大肥鱼。爱吃大白饭，吃饱了才干活，能摸鱼就摸鱼。干饭、摸鱼、刷屏、傲娇四个流派，另有联机专属的女仆牌。",
+  "version": "v2.0.0",
+  "min_game_version": "0.107.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {
+      "id": "BaseLib",
+      "min_version": "3.4.7"
+    }
+  ],
+  "affects_gameplay": true
+}
